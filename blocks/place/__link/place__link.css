@@ -4,4 +4,9 @@
   line-height: 1.22;
   text-decoration-line: underline;
   color: #ffffff;
+  align-self: flex-start;
+}
+
+.place__link:hover {
+  opacity: 0.8;
 }

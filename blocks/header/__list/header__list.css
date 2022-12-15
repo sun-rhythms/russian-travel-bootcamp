@@ -1,5 +1,6 @@
-.flex-row {
+.header__list {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  column-gap: 18px;
 }
