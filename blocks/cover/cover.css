@@ -1,0 +1,12 @@
+.cover {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  background-image: url(../../images/cover-trains.jpg);
+  background-size: cover;
+  max-width: 1184px;
+  width: 100%;
+  aspect-ratio: 1184/740;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

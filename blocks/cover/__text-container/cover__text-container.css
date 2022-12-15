@@ -1,0 +1,16 @@
+.cover__text-container {
+  box-sizing: border-box;
+  max-width: 560px;
+}
+
+@media screen and (max-width: 767px) {
+  .cover__text-container {
+    max-width: 380px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .cover__text-container {
+    max-width: 288px;
+  }
+}

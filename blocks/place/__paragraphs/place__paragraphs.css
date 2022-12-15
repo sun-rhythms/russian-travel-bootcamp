@@ -1,0 +1,13 @@
+.place__paragraphs {
+  box-sizing: border-box;
+  /* max-width: 484px; */
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraphs {
+    padding: 0 16px;
+  }
+}

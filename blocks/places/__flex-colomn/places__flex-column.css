@@ -1,0 +1,23 @@
+.places__flex-column {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+@media screen and (max-width: 1023px) {
+  .places__flex-column {
+    gap: 73px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places__flex-column {
+    gap: 62px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .places__flex-column {
+    gap: 50px;
+  }
+}
