@@ -10,7 +10,7 @@
 
 #### <p align="center"><i><b>Для разработки сайта использовался основной арсенал отзывчивой верстки на HTML и CSS.</b></i></p>
 
-</i></p>
+#### <p align="center"><i><b>[Посетить сайт проекта](https://sun-rhythms.github.io/russian-travel-bootcamp/)</b></i></p>
 
 ---
 
